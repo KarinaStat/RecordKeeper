@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Record Keeper</string>
+    <string name="running">Running</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="running_image_description">Image of a running cat</string>
+    <string name="half_marathon_heading">Half Marathon</string>
+    <string name="heading_5km">5km</string>
+    <string name="heading_10km">10km</string>
+    <string name="heading_marathon">Marathon</string>
+    <string name="longest_ride">Longest Ride</string>
+    <string name="header_picture_description_cycling">Cat is sitting next to a bicycle.</string>
+    <string name="biggest_climb">Biggest Climb</string>
+    <string name="best_average_speed">Best Average Speed</string>
+    <string name="cycling">Cycling</string>
+</resources>
